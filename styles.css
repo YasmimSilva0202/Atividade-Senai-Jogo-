@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 250px;
+    background-image: linear-gradient(rgb(90, 189, 247),purple);
+  } 
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .choices button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .choices button:hover {
+    background-color: #ddd;
+  }
